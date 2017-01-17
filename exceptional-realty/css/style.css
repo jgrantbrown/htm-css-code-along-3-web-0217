@@ -1,0 +1,15 @@
+/* THis is a comment! */
+/* CSS Syntax :
+selector{
+property:value;
+property:value;
+
+}
+*/
+
+/* TYpe slector */
+
+p{
+  font-size:1em;
+  line-height:1.5em;
+}
